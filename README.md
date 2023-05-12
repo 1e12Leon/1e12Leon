@@ -1,4 +1,4 @@
-<h1 align="center">Hi , This is HHU_Leon</h1>
+<h1 align="center">Hi 👋, This is HHU_Leon</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2436917927&label=Profile%20views&color=0e75b6&style=flat" alt="2436917927" /> </p>
 
