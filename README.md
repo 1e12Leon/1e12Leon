@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently studying on [AIM Group](https://multimodality.group/)
 
-- 🌱 I’m currently learning **cs231n, ComputerVison**
+- 🌱 I’m currently learning **go, DeepLearning**
 
-- ‍ All of my projects are available at [https://github.com/2436917927](https://github.com/2436917927)
+- 👨‍💻 All of my projects are available at [https://github.com/2436917927](https://github.com/2436917927)
 
--  My research interest is **UAV ObjectDetection**
+- 📝 My research interest is **ComputerVison**
 
--  How to reach me **liangyao@hhu.edu.cn**
+- 📫 How to reach me **liangyao@hhu.edu.cn**
 
 - 📄 Know about my experiences [https://space.bilibili.com/416520966](https://space.bilibili.com/416520966)
 
