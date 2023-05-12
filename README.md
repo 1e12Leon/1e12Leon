@@ -1,6 +1,7 @@
 <h1 align="center">Hi , This is HHU_Leon</h1>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2436917927&" alt="2436917927" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=2436917927&label=Profile%20views&color=0e75b6&style=flat" alt="2436917927" /> </p>
+
 
 <h3 align="left">I'm Liang Yao, a CS graduate student @HHU</h3>
 
@@ -18,4 +19,3 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=2436917927&show_icons=true&locale=en" alt="2436917927" /></p>
-
