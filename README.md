@@ -17,7 +17,5 @@
 
 - 📫 How to reach me **liangyao@hhu.edu.cn**
 
-- 📄 Know about my experiences [https://1e12leon.top/](https://1e12leon.top/)
-
 
 
