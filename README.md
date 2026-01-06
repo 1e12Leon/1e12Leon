@@ -5,7 +5,7 @@
 
 <h3 align="left">I'm Liang Yao, a CS Ph.D. student @Hohai University</h3>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=1e12Leon&show_icons=true&locale=en" alt="1e12Leon" /></p>
+![1e12Leon's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=1e12Leon&show_icons=true&theme=transparent)
 
 - 🔭 I’m currently studying on [AIM Group](https://multimodality.group/)
 
